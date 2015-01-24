@@ -1,0 +1,7 @@
+Django==1.6.1
+South
+nose
+django-nose
+webtest
+django-webtest
+django-bootstrap3
